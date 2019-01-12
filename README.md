@@ -1,0 +1,5 @@
+# 2DShootingGame
+Unityの公式Tutorialの2DShootingを一部改良したもの
+
+2Dゲームを作成するにあたり基本的な内容が詰まった良い題材
+色々なTipsが詰まっているのでたまに見返すと良いかも
